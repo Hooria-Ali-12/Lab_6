@@ -1,0 +1,52 @@
+.welcome{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+ }
+ 
+ 
+ body{
+     
+    align-items: center; 
+    background-color:wheat;
+    font-size: 14px;
+    justify-self: center;
+    font-family: Arial;
+ 
+ }
+ 
+ .card{
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    padding: 30px;
+    width: 300px;
+    height: 400px;
+ 
+ }
+ 
+ 
+ .name{
+ margin-top: 20px;
+ }
+ 
+ .age{
+ margin-top: 20px; 
+ }
+ 
+ .email{
+ margin-top: 20px; 
+ }
+ 
+ .button{
+ 
+    margin-top: 50px;
+    cursor: pointer;
+    color:white;
+    border-radius: 4px;
+    width: 80px;
+    height: 30px;
+    font-weight: bold;
+    border: none;
+    background-color: rgba(0, 140, 255, 0.952);;
+ }
